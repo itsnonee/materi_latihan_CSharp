@@ -1,0 +1,30 @@
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\bin\Debug\net6.0\Latihan C#.exe
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\bin\Debug\net6.0\Latihan C#.deps.json
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\bin\Debug\net6.0\Latihan C#.runtimeconfig.json
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\bin\Debug\net6.0\Latihan C#.dll
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\bin\Debug\net6.0\Latihan C#.pdb
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\obj\Debug\net6.0\Latihan C#.csproj.AssemblyReference.cache
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\obj\Debug\net6.0\Latihan C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\obj\Debug\net6.0\Latihan C#.AssemblyInfoInputs.cache
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\obj\Debug\net6.0\Latihan C#.AssemblyInfo.cs
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\obj\Debug\net6.0\Latihan C#.csproj.CoreCompileInputs.cache
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\obj\Debug\net6.0\Latihan C#.dll
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\obj\Debug\net6.0\refint\Latihan C#.dll
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\obj\Debug\net6.0\Latihan C#.pdb
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\obj\Debug\net6.0\Latihan C#.genruntimeconfig.cache
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\Latihan C#\obj\Debug\net6.0\ref\Latihan C#.dll
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\obj\Debug\net6.0\Latihan C#.csproj.AssemblyReference.cache
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\obj\Debug\net6.0\Latihan C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\obj\Debug\net6.0\Latihan C#.AssemblyInfoInputs.cache
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\obj\Debug\net6.0\Latihan C#.AssemblyInfo.cs
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\obj\Debug\net6.0\Latihan C#.csproj.CoreCompileInputs.cache
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\obj\Debug\net6.0\Latihan C#.dll
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\obj\Debug\net6.0\refint\Latihan C#.dll
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\obj\Debug\net6.0\Latihan C#.pdb
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\bin\Debug\net6.0\Latihan C#.exe
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\bin\Debug\net6.0\Latihan C#.deps.json
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\bin\Debug\net6.0\Latihan C#.runtimeconfig.json
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\bin\Debug\net6.0\Latihan C#.dll
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\bin\Debug\net6.0\Latihan C#.pdb
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\obj\Debug\net6.0\Latihan C#.genruntimeconfig.cache
+C:\Users\DEL\Documents\Fidel\Kuliah\Unity\File Game Dev\materi_latihan_C#\obj\Debug\net6.0\ref\Latihan C#.dll
